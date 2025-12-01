@@ -13,7 +13,7 @@
   <a href="https://t.me/WTF_NoHope"><img src="https://img.shields.io/badge/Telegram-Profile-blue?logo=telegram&style=for-the-badge" /></a>
   <a href="https://t.me/AnanyaBots"><img src="https://img.shields.io/badge/Telegram-Channel-orange?logo=telegram&style=for-the-badge" /></a>
   <a href="https://t.me/AnanyaBotSupport"><img src="https://img.shields.io/badge/Telegram-Group-blueviolet?logo=telegram&style=for-the-badge" /></a>
-  <a href="https://t.me/AkashDaksh1c"><img src="https://img.shields.io/badge/About%20Me-Telegram-blue?logo=telegram&style=for-the-badge" /></a>
+  <a href="https://t.me/WTF_NoHope"><img src="https://img.shields.io/badge/About%20Me-Telegram-blue?logo=telegram&style=for-the-badge" /></a>
   <a href="https://github.com/ZoxxOP"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" /></a>
   <a href="https://instagram.com/akash_daksh1c"><img src="https://img.shields.io/badge/Instagram-1-white?logo=instagram&logoColor=white&labelColor=E4405F&style=for-the-badge" /></a>
   <a href="https://instagram.com/akash_daksh1c"><img src="https://img.shields.io/badge/Instagram-2-white?logo=instagram&logoColor=white&labelColor=E1306C&style=for-the-badge" /></a>
